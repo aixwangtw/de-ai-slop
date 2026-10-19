@@ -1,0 +1,13 @@
+{
+  "name": "de-ai-slop",
+  "version": "1.0.0",
+  "description": "去 AI 垃圾：寫或改給人看的中文文字時，去掉 AI 味的 agent skill。",
+  "author": {
+    "name": "Alex Wang",
+    "url": "https://github.com/aixwangtw"
+  },
+  "repository": "https://github.com/aixwangtw/de-ai-slop",
+  "license": "MIT",
+  "keywords": ["writing", "chinese", "traditional-chinese", "ai-slop", "skills"],
+  "skills": ["./skills/de-ai-slop"]
+}
