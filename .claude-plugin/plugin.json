@@ -1,6 +1,6 @@
 {
   "name": "de-ai-slop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "去 AI 垃圾：寫或改給人看的中文文字時，去掉 AI 味的 agent skill。",
   "author": {
     "name": "Alex Wang",

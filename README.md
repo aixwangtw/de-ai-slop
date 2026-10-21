@@ -8,7 +8,7 @@
 
 ```
 skills/de-ai-slop/
-├── SKILL.md                  規則本體（R1–R47）與交付流程
+├── SKILL.md                  規則本體（R1–R51）與交付流程
 └── references/
     ├── ai-tells.md           真人怎麼認出 AI 文、網友點名的用字、去 AI 味 prompt、紅旗念頭
     ├── bad-examples.md       被退回的句子：原句、為什麼是 AI 味、改法
@@ -53,7 +53,7 @@ npx skills@latest add aixwangtw/de-ai-slop
 
 ## 加新規則
 
-被退回一句 AI 味的寫法，就把原句（換成中性內容）、為什麼是 AI 味、改法加進 `references/bad-examples.md`；是新的通則就加進 `SKILL.md` 對應的節，接著往下編號。
+被退回一句 AI 味的寫法，就把原句（換成中性內容）、為什麼是 AI 味、改法加進 `references/bad-examples.md`；是新的通則就加進 `SKILL.md` 對應的節，接著往下編號。每次改規則都在 `CHANGELOG.md` 記一筆：日期、改了什麼、起因（回饋原話，匿名化）。
 
 ## English
 
