@@ -8,7 +8,7 @@
 
 ```
 skills/de-ai-slop/
-├── SKILL.md                  規則本體（R1–R60）與交付流程
+├── SKILL.md                  規則本體（R1–R61）與交付流程
 └── references/
     ├── ai-tells.md           真人怎麼認出 AI 文、網友點名的用字、去 AI 味 prompt、紅旗念頭
     ├── bad-examples.md       被退回的句子：原句、為什麼是 AI 味、改法
